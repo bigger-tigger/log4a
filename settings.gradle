@@ -1,0 +1,3 @@
+rootProject.name = "log4a_opt"
+include ':app'
+include ':lib-log4a'
